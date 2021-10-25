@@ -3,7 +3,7 @@
 - 🔭  I'm currently working on [transl8r](https://github.com/FenderStrat85/transl8r) and [DateNight](https://github.com/FenderStrat85/DateNight)
 - 🌱  I'm delving further into React, React Native and Vue with a few passion projects
 - 👯  I'm always keen to collaborate with people on fun and interesting projects!
-- 🎸  When I'm not coding I'm usually jamming, writing or recoding music
+- 🎸  When I'm not coding I'm usually jamming, writing or recording music
 - 🇨🇳  I speak Chinese and lived in Beijing for 7 years, but now I live in London 🇬🇧 
 - 🇨🇳  我会说中文。住在北京七年多了现在住在伦敦  🇬🇧 
 - 🚂  I love to travel and I'm usually planning my next trip.....
@@ -40,3 +40,9 @@ Aside from learning more about the above of course!
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+## Some stats
+
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenderStrat85)](https://github.com/FenderStrat85/github-readme-stats)
+
+
