@@ -44,5 +44,6 @@ Aside from learning more about the above of course!
 ## Some stats
 
 [![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenderStrat85)](https://github.com/FenderStrat85/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FenderStrat85&layout=compact)](https://github.com/FenderStrat85/github-readme-stats)
 
 
