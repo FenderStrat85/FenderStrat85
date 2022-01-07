@@ -1,6 +1,6 @@
 ### Hello, welcome to my github!
 
-- 🔭  I'm currently working on [transl8r](https://github.com/FenderStrat85/transl8r) and [DateNight](https://github.com/FenderStrat85/DateNight)
+- 🔭  I'm currently working at Advanced as a fullstack engineer
 - 🌱  I'm delving further into React, React Native and Vue with a few passion projects
 - 👯  I'm always keen to collaborate with people on fun and interesting projects!
 - 🎸  When I'm not coding I'm usually jamming, writing or recording music
@@ -51,6 +51,7 @@ Aside from learning more about the above of course!
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ## Some stats
